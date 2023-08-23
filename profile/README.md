@@ -1,3 +1,3 @@
-# Ventus Labs
+# Detable
 
-Where innovation meets the blockchain wind
+One-and-only stablecoin dashboard with decentralization index
